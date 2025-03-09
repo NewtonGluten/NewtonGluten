@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NewtonGluten
-- 👀 I’m interested in Graduating College, Getting Top8 at Evo
+- 👀 I am a 2025 CSUEastBay College grad in CS
 - 🌱 I’m currently learning c++
 <!---
 NewtonGluten/NewtonGluten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
